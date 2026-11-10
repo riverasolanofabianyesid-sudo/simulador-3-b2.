@@ -1,0 +1,13 @@
+SIMULADOR 3 - PUBLICACION INDEPENDIENTE EN GITHUB PAGES
+
+Este paquete es la version con el diseno isometrico y las simulaciones individuales, construida a partir de simulador3_equipos.html.
+
+1. Crea un repositorio PUBLICO nuevo en GitHub: simulador-3-b2
+2. En Add file > Upload files, arrastra el CONTENIDO de esta carpeta (NO el ZIP).
+3. Revisa que index.html, simuladores.js, simuladores.css y la carpeta datos aparezcan en la raiz del repositorio.
+4. Pulsa Commit changes.
+5. En Settings > Pages elige Deploy from a branch, main, /(root), Save.
+
+Este paquete NO reemplaza ni modifica tus otros repositorios ni el proyecto en tu computador.
+Java y Servidor3.java no se suben a GitHub Pages: el sitio usa HTML, JavaScript, CSS y datos JSON.
+Se trata de una herramienta academica de simulacion simplificada; no se presenta como calculo de diseno validado.
